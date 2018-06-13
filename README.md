@@ -1,3 +1,2 @@
 # AlexanderWong.github.io
-Constructed a ASP.NET Entity Framework Code First using MVC.
-Designed and built models for a code first database along with controller actions, views, and front/back-end validation.
+My personal website summarizing my wokr history, portfolio, and links to contact information. 
