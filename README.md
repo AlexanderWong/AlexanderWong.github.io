@@ -1,2 +1,2 @@
 # AlexanderWong.github.io
-My personal website summarizing my wokr history, portfolio, and links to contact information. 
+My personal website summarizing my work history, portfolio, and links to contact information. 
